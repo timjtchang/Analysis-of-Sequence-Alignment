@@ -28,6 +28,9 @@ Implemnt sequency alighment using Dynamic Programming and using Memory Efficient
 - efficient.sh:\
     Bash script to compile and run the memory-efficient algorithm.
 
+- plot.py:\
+    Plot two analysis graphs using Python.
+
 - Makefile:\
 
     To compile basic.cpp and efficient.cpp
