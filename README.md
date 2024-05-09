@@ -65,19 +65,10 @@ Implemnt sequency alighment using Dynamic Programming and using Memory Efficient
     $ ./basic.sh "input file" "output file"
     ```
 
-    In bash file, ./basic.out and ./basic will be run.\
-    In the bash file, ./basic.out and ./basic will be executed. Therefore,\
-    If you run it on macOS, the terminal will show: basic.out: No such file or directory.\
-    If you run it on Linux, the terminal will show: basic: No such file or directory.  \ 
-
 - Run the memory-efficient algorithm implemented using divide-and-conquer:
 
     ```bash
     $ ./efficient.sh "input file" "output file"
 
     ```
-
-    In the bash file, ./efficient.out and ./efficient will be executed. Therefore,\
-    If you run it on macOS, the terminal will show: efficient.out: No such file or directory.\
-    If you run it on Linux, the terminal will show: efficient: No such file or directory.
     

@@ -1,4 +1,3 @@
 #!/bin/bash
-g++ basic.cpp -o basic
-./basic "$1" "$2" 
+g++ basic.cpp -o basic.out
 ./basic.out "$1" "$2"
