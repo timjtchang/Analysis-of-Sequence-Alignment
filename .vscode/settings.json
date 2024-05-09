@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
