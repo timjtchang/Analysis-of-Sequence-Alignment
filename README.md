@@ -31,6 +31,9 @@ Implemnt sequency alighment using Dynamic Programming and using Memory Efficient
 - plot.py:\
     Plot two analysis graphs using Python.
 
+- Summary.pdf:\
+    Summarize the performance and analysis of the two algorithms."
+
 - Makefile:\
 
     To compile basic.cpp and efficient.cpp
